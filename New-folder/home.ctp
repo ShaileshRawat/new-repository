@@ -1,6 +1,4 @@
-<style>
-.committ{color:#000;}
-</style>
+
 
 <?php 
   /*code to get current date*/
