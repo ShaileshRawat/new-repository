@@ -1,11 +1,6 @@
-<?php
-/**
- * Default Theme for Croogo CMS
- *
- * @author Fahad Ibnay Heylaal <contact@fahad19.com>
- * @link http://www.croogo.org
- */
-?>
+<style>
+.committ{color:#000;}
+</style>
 
 <?php 
   /*code to get current date*/
