@@ -19,7 +19,7 @@
 .google-searchs .gsc-control-cse {background: none !important;}
 .popup-more-videos{margin-left:10px;}
 .popup-more-videos ul li {width: 25%;float: left;}
-.Watch-more{float:right;}
+
 </style>
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, max-age=0" />
 <meta http-equiv="Pragma" content="no-cache" />
