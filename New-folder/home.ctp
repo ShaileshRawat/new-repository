@@ -13,11 +13,7 @@
 
 <head>
 <style>
-.sphere-logo {line-height: 8px !important; margin-bottom: 2%;margin-top: 0 !important;}
-.sphere-logo img { width: 7% !important;}
-.gsc-search-box * {
-    box-sizing: content-box !important;
-    line-height: normal !important;
+
 }
 .google-searchs .gsc-control-cse {background: none !important;}
 .popup-more-videos{margin-left:10px;}
